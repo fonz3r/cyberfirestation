@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start_terrace"
+                 "value":"main.json#startterrace"
                 }],
          "type":"tilelayer",
          "visible":true,
