@@ -187,6 +187,16 @@
          "spacing":2,
          "tilecount":1120,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"FREE (https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32)"
+                        }]
+                }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
         }, 
