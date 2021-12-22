@@ -24,7 +24,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"cyberfirestation"
+                 "value":"CyberFireStation"
                 }],
          "type":"tilelayer",
          "visible":true,
