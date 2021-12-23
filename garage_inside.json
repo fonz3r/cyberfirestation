@@ -228,6 +228,12 @@
  "nextlayerid":18,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"cc0"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -319,6 +325,15 @@
          "tilecount":1258,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0"
+                        }]
+                }, 
                 {
                  "animation":[
                         {
@@ -418,6 +433,16 @@
          "spacing":0,
          "tilecount":200,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":91,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -428,6 +453,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"cyberfirestationTiles3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":200,
          "tileheight":32,
