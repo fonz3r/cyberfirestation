@@ -612,6 +612,55 @@
          "spacing":0,
          "tilecount":1258,
          "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":153
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":157
+                        }],
+                 "id":153
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":154
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":158
+                        }],
+                 "id":154
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":159
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":155
+                        }],
+                 "id":155
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":100,
+                         "tileid":160
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":156
+                        }],
+                 "id":156
+                }],
          "tilewidth":32
         }, 
         {
