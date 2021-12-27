@@ -96,7 +96,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"lounge"
+                 "value":"world:\/\/lobby\/islanooblar.json#start_cyberfirestation"
                 }],
          "type":"tilelayer",
          "visible":true,
