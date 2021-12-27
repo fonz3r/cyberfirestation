@@ -680,6 +680,63 @@
          "spacing":0,
          "tilecount":200,
          "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":1000,
+                         "tileid":82
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":81
+                        }],
+                 "id":0
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":700,
+                         "tileid":82
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":81
+                        }],
+                 "id":82
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":300,
+                         "tileid":92
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":91
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":92
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":90
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":91
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":92
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":92
+                        }],
+                 "id":92
+                }],
          "tilewidth":32
         }],
  "tilewidth":32,
