@@ -415,13 +415,13 @@
                         }, 
                         {
                          "name":"enterValue",
-                         "type":"bool",
-                         "value":true
+                         "type":"string",
+                         "value":"1"
                         }, 
                         {
                          "name":"leaveValue",
-                         "type":"bool",
-                         "value":false
+                         "type":"string",
+                         "value":""
                         }, 
                         {
                          "name":"triggerMessage",
@@ -434,7 +434,7 @@
                          "value":"extinguishefire"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":50,
                  "x":0,
                  "y":0
@@ -453,12 +453,7 @@
                                 {
                                  "name":"default",
                                  "type":"string",
-                                 "value":"{}"
-                                }, 
-                                {
-                                 "name":"jsonSchema",
-                                 "type":"string",
-                                 "value":"{}"
+                                 "value":""
                                 }],
                          "rotation":0,
                          "type":"variable",
@@ -521,6 +516,12 @@
                  "id":59,
                  "name":"fire_extinguisheractive",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"visible",
+                         "type":"string",
+                         "value":"{{^extinguishervar}}1{{\/extinguishervar}} "
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":50,
